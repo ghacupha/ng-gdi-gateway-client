@@ -108,6 +108,7 @@
   },
   "defaultProject": "erp-gdi",
   "cli": {
+    "analytics": "157c8c4e-671d-4c15-9197-e83ceccff05c",
     "packageManager": "npm"
   }
 }
